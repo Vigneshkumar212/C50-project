@@ -1,0 +1,30 @@
+*{
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.title{
+    text-align: center;
+    color: white;
+    background-color: rgb(146, 211, 71);
+}
+h3,h2{
+    text-align: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgb(245, 86, 86);
+    background-attachment: scroll;
+}
+
+.footer{
+    color: white;
+    display: flex;
+    background-color: #212121;
+    justify-content: space-evenly;
+    
+    flex-wrap: wrap;
+
+}
